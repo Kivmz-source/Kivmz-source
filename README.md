@@ -1,154 +1,172 @@
 <div align="center">
 
-  <!-- ANIMATED HEADER TYPING EFFECT -->
+  <!-- ANIMATED HEADER WAVE BANNER -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=220&section=header&text=GAUNG%20SABILILLAH&fontSize=48&fontColor=ffffff&fontAlignY=35&animation=twinkling" width="100%" alt="Header Banner"/>
+
+  <br />
+
+  <!-- ANIMATED TYPING TEXT EFFECT -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&height=70&lines=👋+Hi,+I'm+GAUNG+SABILILLAH;⚡+Full-Stack+Software+Engineer;🚀+Crafting+Modern+Web+Applications;💻+Laravel+%7C+React+%7C+Vue+%7C+Next.js" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=700&height=60&lines=%E2%9A%A1+Full-Stack+Software+Engineer;%F0%9F%9A%80+Architecting+Scalable+Web+Ecosystems;%F0%9F%92%BB+Laravel+%E2%80%A2+React.js+%E2%80%A2+Vue.js+%E2%80%A2+Next.js;%F0%9F%94%A5+TypeScript+%E2%80%A2+Node.js+%E2%80%A2+Tailwind+CSS;%F0%9F%8C%90+Building+The+Future+of+Digital+Solutions" alt="Typing SVG" />
   </a>
 
+  <br />
+
+  <!-- DYNAMIC PROFILE VIEWS & STATUS BADGES -->
   <p align="center">
-    <strong>Passionately turning complex problems into elegant, high-performance web solutions.</strong>
+    <img src="https://komarev.com/ghpvc/?username=gaungsabilillah&label=PROFILE+VIEWS&color=0072ff&style=for-the-badge" alt="Profile Views" />
+    <img src="https://img.shields.io/badge/STATUS-BUILDING_COOL_STUFF-00C853?style=for-the-badge&logo=rocket&logoColor=white" alt="Status" />
+    <img src="https://img.shields.io/badge/LOCATION-INDONESIA_🇮🇩-FFD600?style=for-the-badge&logo=googlemaps&logoColor=black" alt="Location" />
   </p>
 
-  <!-- SOCIAL BADGES -->
+  <!-- SOCIAL LINKS -->
   <p align="center">
-    <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:gaungsabilillah@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://instagram.com"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-    <a href="https://github.com/gaungsabilillah"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+    <a href="mailto:gaungsabilillah@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+    <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="https://instagram.com"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+    <a href="https://github.com/gaungsabilillah"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   </p>
-
-  ---
 
 </div>
 
-## 🚀 About Me
+---
+
+## ⚡ About The Engineer
 
 ```typescript
-const developer = {
+interface SoftwareEngineer {
+  name: string;
+  alias: string;
+  role: string;
+  coreStack: string[];
+  databases: string[];
+  architecture: string[];
+  mindset: string;
+}
+
+const gaungSabilillah: SoftwareEngineer = {
   name: "Gaung Sabilillah",
-  role: "Full-Stack Engineer",
-  location: "Indonesia 🇮🇩",
-  passions: ["Clean Code", "Web Architecture", "UI/UX Optimization", "Open Source"],
-  currentFocus: "Building scalable distributed web applications & microservices",
-  quote: "First, solve the problem. Then, write the code."
+  alias: "Allz / Developer",
+  role: "Senior Full-Stack Engineer",
+  coreStack: ["Laravel", "React.js", "Next.js", "Vue.js", "Node.js", "TypeScript"],
+  databases: ["PostgreSQL", "MySQL", "MongoDB", "Redis"],
+  architecture: ["Microservices", "RESTful APIs", "Serverless", "Clean Architecture"],
+  mindset: "Write code that humans can read, machines can execute, and systems can scale."
 };
 ```
 
-- 🔭 Currently engineering full-stack applications with **Laravel, React, Next.js, and Node.js**.
-- 🌱 Constantly sharpening my skills in **TypeScript, Cloud Architecture, and Performance Optimization**.
-- 💬 Ask me about **Full-Stack Ecosystems, RESTful API Design, Microservices, or Tailwind CSS**.
-- ⚡ Fun fact: When I'm not coding, I'm exploring new web tools, contributing to open source, or optimizing dev workflows.
+<div align="left">
 
----
-
-## 🛠️ Tech Stack & Ecosystem
-
-<div align="center">
-
-  ### **Languages & Core**
-  <img src="https://skillicons.dev/icons?i=js,ts,php,html,css,cpp" alt="Languages" />
-
-  <br />
-
-  ### **Frontend Engineering**
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,bootstrap,redux,vite" alt="Frontend Tech" />
-
-  <br />
-
-  ### **Backend & Database**
-  <img src="https://skillicons.dev/icons?i=laravel,nodejs,express,postgres,mysql,mongodb,redis" alt="Backend Tech" />
-
-  <br />
-
-  ### **DevOps, Tools & Platform**
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vercel,figma,vscode,linux" alt="Tools & Platforms" />
+- 🔭 **Currently Engineering:** Enterprise POS Systems, High-Performance SaaS Platforms & RESTful Microservices.
+- 💡 **Core Expertise:** Modern Full-Stack Development, React/Next.js UI Engine, Laravel Core, and Node.js Architectures.
+- 🌱 **Skill Upgrading:** Deep-diving into Cloud Native Infrastructure, Docker Containers, and Distributed Caching (Redis).
+- ⚡ **Fun Fact:** I convert caffeine ☕ into clean, maintainable, and robust TypeScript & PHP code!
 
 </div>
 
 ---
 
-## 💻 Tech Badges Breakdown
+## 🛠️ Dynamic Tech Stack & Modern Ecosystem
 
-| Category | Technologies |
-| :--- | :--- |
-| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
-| **Backend** | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-404D59?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) |
-| **Database** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) |
-| **Tooling & OS** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+<div align="center">
+
+  ### **⚡ Frontend & Frameworks**
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,bootstrap,vite,redux&perline=11" alt="Frontend Tech Stack" />
+  </a>
+
+  <br />
+
+  ### **⚙️ Backend, API & Database**
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=laravel,php,nodejs,express,postgres,mysql,mongodb,redis&perline=8" alt="Backend Tech Stack" />
+  </a>
+
+  <br />
+
+  ### **🛠️ DevOps, Cloud & Development Tools**
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vercel,figma,vscode,linux&perline=8" alt="Tools Tech Stack" />
+  </a>
+
+</div>
 
 ---
 
-## 🌟 Featured Projects
+## 💻 Technical Mastery Matrix
+
+| Domain | Technologies & Frameworks | Mastery Level |
+| :--- | :--- | :---: |
+| **Frontend Engineering** | `React.js` `Next.js` `Vue.js` `TypeScript` `Tailwind CSS` | ![95%](https://geps.dev/progress/95?dangerColor=38BDF8&warningColor=38BDF8&color=0072ff) |
+| **Backend Engineering** | `Laravel (PHP)` `Node.js` `Express.js` `REST APIs` | ![92%](https://geps.dev/progress/92?dangerColor=38BDF8&warningColor=38BDF8&color=0072ff) |
+| **Database & Caching** | `PostgreSQL` `MySQL` `MongoDB` `Redis` | ![88%](https://geps.dev/progress/88?dangerColor=38BDF8&warningColor=38BDF8&color=0072ff) |
+| **DevOps & Tooling** | `Git` `Docker` `Vercel` `Linux` `Postman` | ![85%](https://geps.dev/progress/85?dangerColor=38BDF8&warningColor=38BDF8&color=0072ff) |
+
+---
+
+## 🏆 GitHub 3D Trophy Showcase
 
 <div align="center">
-  <table width="100%">
+  <img src="https://github-profile-trophy.vercel.app/?username=gaungsabilillah&theme=tokyonight&no-frame=true&column=6&margin-w=15" alt="Gaung's GitHub Trophies" />
+</div>
+
+---
+
+## 📈 Real-Time Analytics & Code Metrics
+
+<div align="center">
+
+  <table border="0">
     <tr>
       <td width="50%" valign="top">
-        <h3 align="center">🛒 POS & Enterprise ERP System</h3>
-        <p align="center">
-          <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-          <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-        </p>
-        <p>A full-featured Point of Sale and Inventory Management application with real-time stock monitoring, transaction reports, and multi-role authentication.</p>
+        <img src="https://github-readme-stats.vercel.app/api?username=gaungsabilillah&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=38BDF8&icon_color=38BDF8" width="100%" alt="GitHub Overall Stats" />
       </td>
       <td width="50%" valign="top">
-        <h3 align="center">⚡ Modern SaaS Web Platform</h3>
-        <p align="center">
-          <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-          <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-        </p>
-        <p>High-performance SaaS application with server-side rendering, seamless payment integration, dynamic dashboard, and responsive Tailwind UI.</p>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaungsabilillah&layout=compact&theme=tokyonight&hide_border=true&title_color=38BDF8&langs_count=8" width="100%" alt="Top Languages Used" />
       </td>
     </tr>
   </table>
-</div>
-
----
-
-## 📈 GitHub Metrics & Analytics
-
-<div align="center">
-
-  <!-- STREAK & STATS CARDS -->
-  <p align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gaungsabilillah&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Gaung's GitHub Stats" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaungsabilillah&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-  </p>
-
-  <p align="center">
-    <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=gaungsabilillah&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </p>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gaungsabilillah&theme=tokyonight&no-frame=true&column=6&margin-w=15" alt="GitHub Trophies" />
-</div>
-
----
-
-## 🐍 Contribution Graph
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/gaungsabilillah/gaungsabilillah/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</div>
-
----
-
-<div align="center">
-
-  ### 🤝 Let's Connect and Build Something Amazing Together!
-
-  [![Gmail Badge](https://img.shields.io/badge/-gaungsabilillah@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gaungsabilillah@gmail.com)](mailto:gaungsabilillah@gmail.com)
-  [![LinkedIn Badge](https://img.shields.io/badge/-Gaung%20Sabilillah-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com)
-  [![Portfolio Badge](https://img.shields.io/badge/-Portfolio%20Website-000000?style=flat-square&logo=Vercel&logoColor=white)](https://github.com/gaungsabilillah)
 
   <br />
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=120&section=footer" width="100%" />
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gaungsabilillah&theme=tokyonight&hide_border=true&background=1A1B26&ring=38BDF8&fire=0072ff&currStreakLabel=38BDF8" width="95%" alt="GitHub Streak Stats" />
+  </p>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake Game
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/gaungsabilillah/gaungsabilillah/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation Grid" width="100%" />
+</div>
+
+---
+
+## 💡 Daily Developer Wisdom
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Quote" />
+</div>
+
+---
+
+<!-- FOOTER ANIMATION -->
+<div align="center">
+
+  <br />
+
+  <h3>🤝 Let's Collaborate & Connect</h3>
+  <p>Got an exciting project, open-source opportunity, or just want to discuss tech? Feel free to reach out!</p>
+
+  <a href="mailto:gaungsabilillah@gmail.com">
+    <img src="https://img.shields.io/badge/Get_In_Touch-0072FF?style=for-the-badge&logo=telegram&logoColor=white" alt="Get In Touch" />
+  </a>
+
+  <br /><br />
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=120&section=footer" width="100%" alt="Footer Wave" />
 
 </div>
