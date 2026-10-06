@@ -22,15 +22,7 @@
 
 ## ⚡ About The Engineer
 
-```typescript
-const gaungSabilillah: SoftwareEngineer = {
-  name: "Gaung Sabilillah",
-  role: "Senior Full-Stack Engineer",
-  coreStack: ["Laravel", "React.js", "Next.js", "Vue.js", "Node.js", "TypeScript"],
-  databases: ["PostgreSQL", "MySQL", "MongoDB", "Redis"],
-  architecture: ["Microservices", "RESTful APIs", "Serverless", "Clean Architecture"],
-  mindset: "Write code that humans can read, machines can execute, and systems can scale."
-};
+
 ```
 
 <div align="left">
