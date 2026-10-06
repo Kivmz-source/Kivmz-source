@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00599C&height=200&section=header&text=Aldo%20Rendy&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20|%20UI/UX%20Designer&descAlignY=60&descSize=20" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00599C&height=200&section=header&text=Kivmz%20Newbie&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20|%20UI/&descAlignY=60&descSize=20" width="100%" alt="Header Banner" />
   
   <a href="https://github.com/allzxxopemula">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00599C&center=true&vCenter=true&width=600&lines=Crafting+Modern+Web+Experiences...;Building+Fast+and+Responsive+UI...;Software+Engineering+Student...;Frontend+Development+Enthusiast" alt="Typing Effect" />
