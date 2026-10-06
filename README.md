@@ -15,7 +15,7 @@
 
 ## About Me
 
-Hello, I am Aldo Rendy, known online as Allzxxo. I am a dedicated Frontend Developer and UI/UX Designer currently studying Software Engineering. My passion lies in creating clean, scalable, and visually compelling web applications from scratch.
+Hello, I am Guang Sabilillah, known online as Kivmz. I am a dedicated Frontend Developer currently studying Software Engineering. My passion lies in creating clean.
 
 I approach web development as a bridge between technical architecture and artistic design. Rather than relying on simple builders, I specialize in writing structured code manually, building highly responsive layouts, and implementing smooth user interactions. Currently, my focus is on mastering modern JavaScript frameworks, exploring advanced web animation libraries, and delivering dynamic user experiences.
 
