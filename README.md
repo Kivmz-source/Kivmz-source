@@ -3,15 +3,6 @@
   <!-- ANIMATED HEADER WAVE BANNER -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=220&section=header&text=GAUNG%20SABILILLAH&fontSize=48&fontColor=ffffff&fontAlignY=35&animation=twinkling" width="100%" alt="Header Banner"/>
 
-  <br />
-
-  <!-- ANIMATED TYPING TEXT EFFECT -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=700&height=60&lines=%E2%9A%A1+Full-Stack+Software+Engineer;%F0%9F%9A%80+Architecting+Scalable+Web+Ecosystems;%F0%9F%92%BB+Laravel+%E2%80%A2+React.js+%E2%80%A2+Vue.js+%E2%80%A2+Next.js;%F0%9F%94%A5+TypeScript+%E2%80%A2+Node.js+%E2%80%A2+Tailwind+CSS;%F0%9F%8C%90+Building+The+Future+of+Digital+Solutions" alt="Typing SVG" />
-  </a>
-
-  <br />
-
   <!-- DYNAMIC PROFILE VIEWS & STATUS BADGES -->
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=gaungsabilillah&label=PROFILE+VIEWS&color=0072ff&style=for-the-badge" alt="Profile Views" />
