@@ -3,16 +3,28 @@
   <!-- ANIMATED HEADER WAVE BANNER -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=220&section=header&text=Kivmz%20Kroco&fontSize=48&fontColor=ffffff&fontAlignY=35&animation=twinkling" width="100%" alt="Header Banner"/>
 
+  <br />
+
+  <!-- ANIMATED TYPING TEXT EFFECT -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=700&height=60&lines=%E2%9A%A1+Full-Stack+Software+Engineer;%F0%9F%9A%80+Architecting+Scalable+Web+Ecosystems;%F0%9F%92%BB+Laravel+%E2%80%A2+React.js+%E2%80%A2+Vue.js+%E2%80%A2+Next.js;%F0%9F%94%A5+TypeScript+%E2%80%A2+Node.js+%E2%80%A2+Tailwind+CSS;%F0%9F%8C%90+Building+The+Future+of+Digital+Solutions" alt="Typing SVG" />
+  </a>
+
+  <br />
+
   <!-- DYNAMIC PROFILE VIEWS & STATUS BADGES -->
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=gaungsabilillah&label=PROFILE+VIEWS&color=0072ff&style=for-the-badge" alt="Profile Views" />
+    <img src="https://img.shields.io/badge/STATUS-BUILDING_COOL_STUFF-00C853?style=for-the-badge&logo=rocket&logoColor=white" alt="Status" />
     <img src="https://img.shields.io/badge/LOCATION-INDONESIA_🇮🇩-FFD600?style=for-the-badge&logo=googlemaps&logoColor=black" alt="Location" />
   </p>
 
   <!-- SOCIAL LINKS -->
   <p align="center">
     <a href="mailto:gaungsabilillah@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-    <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-
+    <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="https://instagram.com"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+    <a href="https://github.com/gaungsabilillah"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   </p>
 
 </div>
@@ -21,7 +33,26 @@
 
 ## ⚡ About The Engineer
 
+```typescript
+interface SoftwareEngineer {
+  name: string;
+  alias: string;
+  role: string;
+  coreStack: string[];
+  databases: string[];
+  architecture: string[];
+  mindset: string;
+}
 
+const gaungSabilillah: SoftwareEngineer = {
+  name: "Gaung Sabilillah",
+  alias: "Allz / Developer",
+  role: "Senior Full-Stack Engineer",
+  coreStack: ["Laravel", "React.js", "Next.js", "Vue.js", "Node.js", "TypeScript"],
+  databases: ["PostgreSQL", "MySQL", "MongoDB", "Redis"],
+  architecture: ["Microservices", "RESTful APIs", "Serverless", "Clean Architecture"],
+  mindset: "Write code that humans can read, machines can execute, and systems can scale."
+};
 ```
 
 <div align="left">
