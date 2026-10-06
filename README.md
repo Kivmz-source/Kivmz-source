@@ -6,7 +6,6 @@
   <!-- DYNAMIC PROFILE VIEWS & STATUS BADGES -->
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=gaungsabilillah&label=PROFILE+VIEWS&color=0072ff&style=for-the-badge" alt="Profile Views" />
-    <img src="https://img.shields.io/badge/STATUS-BUILDING_COOL_STUFF-00C853?style=for-the-badge&logo=rocket&logoColor=white" alt="Status" />
     <img src="https://img.shields.io/badge/LOCATION-INDONESIA_🇮🇩-FFD600?style=for-the-badge&logo=googlemaps&logoColor=black" alt="Location" />
   </p>
 
