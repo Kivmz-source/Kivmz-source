@@ -1,172 +1,63 @@
 <div align="center">
-
-  <!-- ANIMATED HEADER WAVE BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=220&section=header&text=Kivmz%20Kroco&fontSize=48&fontColor=ffffff&fontAlignY=35&animation=twinkling" width="100%" alt="Header Banner"/>
-
-  <br />
-
-  <!-- ANIMATED TYPING TEXT EFFECT -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=700&height=60&lines=%E2%9A%A1+Full-Stack+Software+Engineer;%F0%9F%9A%80+Architecting+Scalable+Web+Ecosystems;%F0%9F%92%BB+Laravel+%E2%80%A2+React.js+%E2%80%A2+Vue.js+%E2%80%A2+Next.js;%F0%9F%94%A5+TypeScript+%E2%80%A2+Node.js+%E2%80%A2+Tailwind+CSS;%F0%9F%8C%90+Building+The+Future+of+Digital+Solutions" alt="Typing SVG" />
-  </a>
-
-  <br />
-
-  <!-- DYNAMIC PROFILE VIEWS & STATUS BADGES -->
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=gaungsabilillah&label=PROFILE+VIEWS&color=0072ff&style=for-the-badge" alt="Profile Views" />
-    <img src="https://img.shields.io/badge/STATUS-BUILDING_COOL_STUFF-00C853?style=for-the-badge&logo=rocket&logoColor=white" alt="Status" />
-    <img src="https://img.shields.io/badge/LOCATION-INDONESIA_🇮🇩-FFD600?style=for-the-badge&logo=googlemaps&logoColor=black" alt="Location" />
-  </p>
-
-  <!-- SOCIAL LINKS -->
-  <p align="center">
-    <a href="mailto:gaungsabilillah@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-    <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="https://instagram.com"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-    <a href="https://github.com/gaungsabilillah"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-  </p>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00599C&height=200&section=header&text=Aldo%20Rendy&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20|%20UI/UX%20Designer&descAlignY=60&descSize=20" width="100%" alt="Header Banner" />
+  
+  <a href="https://github.com/allzxxopemula">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00599C&center=true&vCenter=true&width=600&lines=Crafting+Modern+Web+Experiences...;Building+Fast+and+Responsive+UI...;Software+Engineering+Student...;Frontend+Development+Enthusiast" alt="Typing Effect" />
+  </a><br>
+  <a href="https://discord.gg/CpjpgA2rWf"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+  <a href="https://instagram.com/aldo_rja"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://tiktok.com/@allzxxo"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"></a>
+  <a href="https://www.youtube.com/channel/UC01IDCIu-wVmoVysZ5GMT_g"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
+  <a href="mailto:aldorendyjulian@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </div>
 
 ---
 
-## ⚡ About The Engineer
+## About Me
 
-```typescript
-interface SoftwareEngineer {
-  name: string;
-  alias: string;
-  role: string;
-  coreStack: string[];
-  databases: string[];
-  architecture: string[];
-  mindset: string;
-}
+Hello, I am Aldo Rendy, known online as Allzxxo. I am a dedicated Frontend Developer and UI/UX Designer currently studying Software Engineering. My passion lies in creating clean, scalable, and visually compelling web applications from scratch.
 
-const gaungSabilillah: SoftwareEngineer = {
-  name: "Gaung Sabilillah",
-  alias: "Allz / Developer",
-  role: "Senior Full-Stack Engineer",
-  coreStack: ["Laravel", "React.js", "Next.js", "Vue.js", "Node.js", "TypeScript"],
-  databases: ["PostgreSQL", "MySQL", "MongoDB", "Redis"],
-  architecture: ["Microservices", "RESTful APIs", "Serverless", "Clean Architecture"],
-  mindset: "Write code that humans can read, machines can execute, and systems can scale."
-};
-```
+I approach web development as a bridge between technical architecture and artistic design. Rather than relying on simple builders, I specialize in writing structured code manually, building highly responsive layouts, and implementing smooth user interactions. Currently, my focus is on mastering modern JavaScript frameworks, exploring advanced web animation libraries, and delivering dynamic user experiences.
 
-<div align="left">
+Beyond frontend development, I spend my time managing server infrastructure, studying deployment pipelines, and constantly refining my knowledge of modern web standards.
 
-- 🔭 **Currently Engineering:** Enterprise POS Systems, High-Performance SaaS Platforms & RESTful Microservices.
-- 💡 **Core Expertise:** Modern Full-Stack Development, React/Next.js UI Engine, Laravel Core, and Node.js Architectures.
-- 🌱 **Skill Upgrading:** Deep-diving into Cloud Native Infrastructure, Docker Containers, and Distributed Caching (Redis).
-- ⚡ **Fun Fact:** I convert caffeine ☕ into clean, maintainable, and robust TypeScript & PHP code!
+## Current Focus and Projects
 
-</div>
+*   **Modern Web Portfolio:** Developing and maintaining a modular personal portfolio using React and Vite, hosted on Vercel, with a strong emphasis on seamless navigation and component reusability.
+*   **Financial Tracker Application:** Architecting a functional financial tracking system designed to maintain data integrity alongside a clean, user-friendly interface.
+*   **Advanced UI Animations:** Experimenting with robust animation libraries such as GSAP and AOS to integrate smooth, scroll-triggered visual effects into standard web layouts.
+*   **Server Administration:** Managing configuration, automated command structures, and plugin deployment for Java-based servers to ensure optimal environment performance.
 
 ---
 
-## 🛠️ Dynamic Tech Stack & Modern Ecosystem
+## Technical Skills and Tools
+
+### Core Languages
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+### Frontend Frameworks and Libraries
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+### Database and Server Management
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+
+### Development Tools, Hosting, and Design
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+
+---
+
+## Development Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=allzxxopemula&theme=github-dark&bg_color=0d1117&color=00599C&line=00599C&point=ffffff&hide_border=true" width="100%" alt="Activity Graph" />
+
+<br>
+
+<img src="https://streak-stats.demolab.com/?user=allzxxopemula&theme=github-dark&hide_border=false" alt="GitHub Streak" />
+
+<br><br>
 
 <div align="center">
-
-  ### **⚡ Frontend & Frameworks**
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,bootstrap,vite,redux&perline=11" alt="Frontend Tech Stack" />
-  </a>
-
-  <br />
-
-  ### **⚙️ Backend, API & Database**
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,php,nodejs,express,postgres,mysql,mongodb,redis&perline=8" alt="Backend Tech Stack" />
-  </a>
-
-  <br />
-
-  ### **🛠️ DevOps, Cloud & Development Tools**
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vercel,figma,vscode,linux&perline=8" alt="Tools Tech Stack" />
-  </a>
-
-</div>
-
----
-
-## 💻 Technical Mastery Matrix
-
-| Domain | Technologies & Frameworks | Mastery Level |
-| :--- | :--- | :---: |
-| **Frontend Engineering** | `React.js` `Next.js` `Vue.js` `TypeScript` `Tailwind CSS` | ![95%](https://geps.dev/progress/95?dangerColor=38BDF8&warningColor=38BDF8&color=0072ff) |
-| **Backend Engineering** | `Laravel (PHP)` `Node.js` `Express.js` `REST APIs` | ![92%](https://geps.dev/progress/92?dangerColor=38BDF8&warningColor=38BDF8&color=0072ff) |
-| **Database & Caching** | `PostgreSQL` `MySQL` `MongoDB` `Redis` | ![88%](https://geps.dev/progress/88?dangerColor=38BDF8&warningColor=38BDF8&color=0072ff) |
-| **DevOps & Tooling** | `Git` `Docker` `Vercel` `Linux` `Postman` | ![85%](https://geps.dev/progress/85?dangerColor=38BDF8&warningColor=38BDF8&color=0072ff) |
-
----
-
-## 🏆 GitHub 3D Trophy Showcase
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gaungsabilillah&theme=tokyonight&no-frame=true&column=6&margin-w=15" alt="Gaung's GitHub Trophies" />
-</div>
-
----
-
-## 📈 Real-Time Analytics & Code Metrics
-
-<div align="center">
-
-  <table border="0">
-    <tr>
-      <td width="50%" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api?username=gaungsabilillah&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=38BDF8&icon_color=38BDF8" width="100%" alt="GitHub Overall Stats" />
-      </td>
-      <td width="50%" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaungsabilillah&layout=compact&theme=tokyonight&hide_border=true&title_color=38BDF8&langs_count=8" width="100%" alt="Top Languages Used" />
-      </td>
-    </tr>
-  </table>
-
-  <br />
-
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gaungsabilillah&theme=tokyonight&hide_border=true&background=1A1B26&ring=38BDF8&fire=0072ff&currStreakLabel=38BDF8" width="95%" alt="GitHub Streak Stats" />
-  </p>
-
-</div>
-
----
-
-## 🐍 Contribution Snake Game
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/gaungsabilillah/gaungsabilillah/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation Grid" width="100%" />
-</div>
-
----
-
-## 💡 Daily Developer Wisdom
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Quote" />
-</div>
-
----
-
-<!-- FOOTER ANIMATION -->
-<div align="center">
-
-  <br />
-
-  <h3>🤝 Let's Collaborate & Connect</h3>
-  <p>Got an exciting project, open-source opportunity, or just want to discuss tech? Feel free to reach out!</p>
-
-  <a href="mailto:gaungsabilillah@gmail.com">
-    <img src="https://img.shields.io/badge/Get_In_Touch-0072FF?style=for-the-badge&logo=telegram&logoColor=white" alt="Get In Touch" />
-  </a>
-
-  <br /><br />
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=120&section=footer" width="100%" alt="Footer Wave" />
-
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github-dark" alt="Dev Quote" />
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=allzxxopemula&style=for-the-badge&color=00599C&label=PROFILE+VISITORS" alt="Profile views" />
 </div>
