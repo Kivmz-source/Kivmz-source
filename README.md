@@ -3,13 +3,6 @@
   <!-- ANIMATED HEADER WAVE BANNER -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=220&section=header&text=GAUNG%20SABILILLAH&fontSize=48&fontColor=ffffff&fontAlignY=35&animation=twinkling" width="100%" alt="Header Banner"/>
 
-
-  <!-- SOCIAL LINKS -->
-  <p align="center">
-    <a href="mailto:gaungsabilillah@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-    <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-
-  </p>
-
 </div>
 
 ---
