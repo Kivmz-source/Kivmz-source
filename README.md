@@ -3,11 +3,6 @@
   <!-- ANIMATED HEADER WAVE BANNER -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=220&section=header&text=GAUNG%20SABILILLAH&fontSize=48&fontColor=ffffff&fontAlignY=35&animation=twinkling" width="100%" alt="Header Banner"/>
 
-  <!-- DYNAMIC PROFILE VIEWS & STATUS BADGES -->
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=gaungsabilillah&label=PROFILE+VIEWS&color=0072ff&style=for-the-badge" alt="Profile Views" />
-    <img src="https://img.shields.io/badge/LOCATION-INDONESIA_🇮🇩-FFD600?style=for-the-badge&logo=googlemaps&logoColor=black" alt="Location" />
-  </p>
 
   <!-- SOCIAL LINKS -->
   <p align="center">
