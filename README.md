@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00599C&height=200&section=header&text=Kivmz%20Newbie&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20/&descAlignY=60&descSize=20" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00599C&height=200&section=header&text=Kivmz%20Newbie&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20&descAlignY=60&descSize=20" width="100%" alt="Header Banner" />
   
-  <a href="https://github.com/allzxxopemula">
+  <a href="https://github.com/Kivmz-source">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00599C&center=true&vCenter=true&width=600&lines=Crafting+Modern+Web+Experiences...;Building+Fast+and+Responsive+UI...;Software+Engineering+Student...;Frontend+Development+Enthusiast" alt="Typing Effect" />
   </a><br>
   <a href="https://discord.gg/CpjpgA2rWf"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
