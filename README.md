@@ -34,19 +34,8 @@
 ## ⚡ About The Engineer
 
 ```typescript
-interface SoftwareEngineer {
-  name: string;
-  alias: string;
-  role: string;
-  coreStack: string[];
-  databases: string[];
-  architecture: string[];
-  mindset: string;
-}
-
 const gaungSabilillah: SoftwareEngineer = {
   name: "Gaung Sabilillah",
-  alias: "Allz / Developer",
   role: "Senior Full-Stack Engineer",
   coreStack: ["Laravel", "React.js", "Next.js", "Vue.js", "Node.js", "TypeScript"],
   databases: ["PostgreSQL", "MySQL", "MongoDB", "Redis"],
